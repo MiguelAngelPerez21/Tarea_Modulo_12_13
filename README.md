@@ -14,7 +14,7 @@ Este proyecto forma parte del módulo **Sistemas de Gestión Empresarial** y con
 | `listado.csv` | Datos de ejemplo utilizados por los scripts. |
 | `docker-compose.yaml` | Configuración para contenerizar y ejecutar servicios si aplica. |
 
-![Ejecución](images/captura1.png)
+![Ejecución](Capturas/Captura_Estructura.png)
 
 ---
 
@@ -43,10 +43,10 @@ El archivo docker-compose.yaml puede usarse para levantar servicios necesarios p
 Al ejecutar el archivo principal, el sistema carga correctamente el archivo `listado.csv`, procesa los datos y muestra la información correspondiente en consola.
 Estos resultados también podemos verlos desde pgadmin y comprobando que el archivo ha añadido los contactos.
 
-![Ejecución](images/captura1.png)
+![Ejecución](Capturas/Captura_Terminal.png)
 
-![Ejecución](images/captura1.png)
+![Ejecución](Capturas/Captura_Register_Servidor_1.png)
 
-![Ejecución](images/captura1.png)
+![Ejecución](Capturas/Captura_Register_Servidor_2.png)
 
-![Ejecución](images/captura1.png)
+![Ejecución](Capturas_Captura_Resultado.png)
