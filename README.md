@@ -49,4 +49,4 @@ Estos resultados también podemos verlos desde pgadmin y comprobando que el arch
 
 ![Ejecución](Capturas/Captura_Register_Servidor_2.png)
 
-![Ejecución](Capturas_Captura_Resultado.png)
+![Ejecución](Capturas/Captura_Resultado.png)
